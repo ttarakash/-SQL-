@@ -22,3 +22,4 @@
 - **Оптимизация**
   - Индексы
   - Транзакция (выполнить несколько запросов одновременно)
+<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/c6deaa1f-a269-4204-8e18-51c5c01e1eae" />
